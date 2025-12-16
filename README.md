@@ -76,8 +76,11 @@ RegisterNumber:25008890
 
 **RTL Schematic**
 half adder:
+
 <img width="927" height="521" alt="digi" src="https://github.com/user-attachments/assets/c04d8a13-9d9f-4583-8a40-792a0155f415" />
+
 half subtractor:
+
 <img width="990" height="619" alt="digi1" src="https://github.com/user-attachments/assets/bab51d8e-23a1-4977-a879-60ede1f08e8c" />
 
 **Output/TIMING Waveform**
